@@ -13,6 +13,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0324-wiggle-sort-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 ## Greedy
 |  |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
