@@ -31,8 +31,18 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0190-reverse-bits) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
