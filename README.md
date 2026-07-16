@@ -37,12 +37,18 @@
 | ------- |
 | [0067-add-binary](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
