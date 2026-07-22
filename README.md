@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0324-wiggle-sort-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [1089-duplicate-zeros](https://github.com/nitinkishoor/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
@@ -45,6 +46,7 @@
 | [0191-number-of-1-bits](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0476-number-complement) |
 | [0868-binary-gap](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0868-binary-gap) |
