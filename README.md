@@ -48,6 +48,7 @@
 | [0231-power-of-two](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0476-number-complement) |
 | [0868-binary-gap](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0868-binary-gap) |
 ## Math
@@ -56,6 +57,7 @@
 | [0067-add-binary](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
 | ------- |
