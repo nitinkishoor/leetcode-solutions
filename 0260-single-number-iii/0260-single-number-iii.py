@@ -1,13 +1,8 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> List[int]:
-        a=[]
-        for i in range(len(nums)):
-            c= nums[i]
-            nums.pop(i)
-            if  c not in nums:
-                a.append(c)
-            nums.insert(i,c)
-        return a
-
-
-        
+        set_nums=list(set(nums))
+        lst=[]
+        for i in set_nums:
+            if nums.count(i)==1:
+                lst.append(i)
+        return lst
