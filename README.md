@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0260-single-number-iii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0324-wiggle-sort-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [1089-duplicate-zeros](https://github.com/nitinkishoor/leetcode-solutions/tree/master/1089-duplicate-zeros) |
@@ -70,4 +71,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
