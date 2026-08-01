@@ -14,6 +14,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0556-next-greater-element-iii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1089-duplicate-zeros](https://github.com/nitinkishoor/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Divide and Conquer
 |  |
@@ -40,6 +41,7 @@
 | [0067-add-binary](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0556-next-greater-element-iii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0231-power-of-two](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0556-next-greater-element-iii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 ## Simulation
 |  |
 | ------- |
