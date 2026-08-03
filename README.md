@@ -8,6 +8,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0260-single-number-iii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0324-wiggle-sort-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0877-stone-game](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0877-stone-game) |
 | [1089-duplicate-zeros](https://github.com/nitinkishoor/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@
 | [0342-power-of-four](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0556-next-greater-element-iii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
+| [0877-stone-game](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -78,4 +80,12 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
