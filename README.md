@@ -106,4 +106,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0877-stone-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
