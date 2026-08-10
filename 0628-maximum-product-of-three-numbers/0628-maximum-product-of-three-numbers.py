@@ -4,7 +4,6 @@ class Solution:
         max1 = float("-inf")
         max2 = float("-inf")
         max3 = float("-inf")
-
         min1 = float("inf")
         min2 = float("inf")
 
