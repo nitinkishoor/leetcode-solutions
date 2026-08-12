@@ -6,6 +6,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0324-wiggle-sort-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0162-find-peak-element) |
 ## Dynamic Programming
 |  |
 | ------- |
