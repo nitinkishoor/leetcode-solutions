@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -86,6 +87,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0162-find-peak-element) |
 ## Dynamic Programming
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
