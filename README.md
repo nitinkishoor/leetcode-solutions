@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -17,6 +18,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0556-next-greater-element-iii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
