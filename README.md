@@ -15,6 +15,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0877-stone-game) |
 | [1089-duplicate-zeros](https://github.com/nitinkishoor/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nitinkishoor/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0067-add-binary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nitinkishoor/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Recursion
 |  |
 | ------- |
