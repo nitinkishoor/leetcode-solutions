@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -105,6 +106,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/nitinkishoor/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Counting
